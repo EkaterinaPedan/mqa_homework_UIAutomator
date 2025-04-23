@@ -1,0 +1,1 @@
+[![Android CI](https://github.com/EkaterinaPedan/mqa_homework_UIAutomator/actions/workflows/android.yml/badge.svg)](https://github.com/EkaterinaPedan/mqa_homework_UIAutomator/actions/workflows/android.yml)
